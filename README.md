@@ -7,7 +7,7 @@
 
 ## 📌 프로젝트 소개
 
-**"나만의 레시피 냉장고"**는
+"나만의 레시피 냉장고"는
 내가 가진 재료로 만들 수 있는 요리 레시피를 관리하고,
 냉장고 속 재료와 요리 기록, 평점, 메모, 즐겨찾기 등
 다양한 기능을 통해 요리 생활을 더 편리하게 만들어주는
@@ -46,14 +46,6 @@
 ## 🎬 시연 영상
 
 - [YouTube 시연 영상 바로가기](https://www.youtube.com/watch?v=fgTBMG-kUqk)
-
----
-
-## 🖥️ 실행 화면 예시
-
-| 냉장고 속 재료 관리 | 레시피 관리 |
-|:------------------:|:----------:|
-| ![재료관리](./screenshots/ingredient_panel.png) | ![레시피관리](./screenshots/recipe_panel.png) |
 
 ---
 
@@ -109,12 +101,18 @@
 
 ---
 
-## 🙌 개발 후기 
+## 🙌 개발 후기 & 개선점
 
 - Java와 Swing, MySQL을 활용해 실생활에 바로 쓸 수 있는 프로그램을 만들었습니다.
 - DAO 패턴, DB 정규화 등으로 확장성과 유지보수성을 높였습니다.
 - 추후 모바일/웹 버전, 사용자별 계정 기능 등도 확장 가능성이 있습니다.
 
+---
+
+## 📎 기타
+
+- **프로젝트 GitHub**: [https://github.com/jiwoo1105/JavaProgramming.git](https://github.com/jiwoo1105/JavaProgramming.git)
+- **시연 영상**: [https://www.youtube.com/watch?v=fgTBMG-kUqk](https://www.youtube.com/watch?v=fgTBMG-kUqk)
 
 ---
 
