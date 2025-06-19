@@ -1,0 +1,13 @@
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/Main.java
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/dao/IngredientDAO.java
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/dao/RecipeDAO.java
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/dao/impl/IngredientDAOImpl.java
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/dao/impl/RecipeDAOImpl.java
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/db/DatabaseConnection.java
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/dto/IngredientDTO.java
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/dto/RecipeDTO.java
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/model/Ingredient.java
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/model/Recipe.java
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/ui/IngredientPanel.java
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/ui/MainFrame.java
+/Users/ziuuu/IdeaProjects/JavaProject_DKU/src/main/java/com/example/ui/RecipePanel.java
